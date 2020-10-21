@@ -1,0 +1,10 @@
+Lista de colores
+	    Color.black
+            Color.blue
+            Color.cyan
+            Color.gray
+            Color.green
+            Color.magenta
+            Color.red
+            Color.white
+            Color.yellow

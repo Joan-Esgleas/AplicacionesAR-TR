@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e5a5df5b4cacc245b595ba1bbff46af, type: 3}
+  m_Name: Sinister
+  m_EditorClassIdentifier: 
+  nombreDePelicula: Sinister
+  urlNetflix: https://www.netflix.com/title/70221486
+  urltrailer: https://www.youtube.com/watch?v=_kbQAJR9YWQ&t=2s
+  year: 2012
+  duracion: 110
+  pais: Estados Unidos
+  director: Scott Derrickson
+  guion: Scott Derrickson, C. Robert Cargill
+  musica: Christopher Young
+  fotografia: Chris Norr
+  reparto: 'Ethan Hawke, James Ransone, Juliet Rylance, Vincent D''Onofrio, Fred Dalton
+    Thompson, Clare Foley, Michael Hall D''Addario, Victoria Leigh '
+  sinposis: "Un periodista viaja con su familia a lo largo y ancho del pa\xEDs para
+    investigar terribles asesinatos que luego convierte en libros. Cuando llega a
+    una casa donde ha tenido lugar el asesinato de una familia, encuentra una cinta
+    que desvela horribles pistas que van m\xE1s all\xE1 del esclarecimiento de la
+    tragedia."
+  criticaAudiencia: 6.1
+  crticaProfesional: 6.4

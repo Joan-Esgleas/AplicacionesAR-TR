@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e5a5df5b4cacc245b595ba1bbff46af, type: 3}
+  m_Name: StarWarsTheLastJedi
+  m_EditorClassIdentifier: 
+  nombreDePelicula: 'Star Wars: The Last Jedi'
+  urlNetflix: https://www.netflix.com/title/80192018
+  urltrailer: https://youtu.be/Q0CbN8sfihY
+  year: 2017
+  duracion: 150
+  pais: Estados Unidos
+  director: Rian Johnson
+  guion: 'Rian Johnson (Personajes: George Lucas)'
+  musica: John Williams
+  fotografia: Steve Yedlin
+  reparto: Daisy Ridley, John Boyega, Adam Driver, Oscar Isaac, Mark Hamill, Carrie
+    Fisher, Kelly Marie Tran, Domhnall Gleeson, Benicio del Toro, Laura Dern, Andy
+    Serkis
+  sinposis: "La malvada Primera Orden se ha vuelto m\xE1s poderosa y tiene contra
+    las cuerdas a la Resistencia, liderada por la General Leia Organa (Carrie Fisher).
+    El piloto Poe Dameron (Oscar Isaac) encabeza una misi\xF3n para intentar destruir
+    un acorazado de la Primera Orden. Mientras tanto, la joven Rey (Daisy Ridley)
+    tendr\xE1 que definir su futuro y su vocaci\xF3n, y el viejo jedi Luke Skywalker
+    (Mark Hamill) revaluar el significado de su vida...."
+  criticaAudiencia: 4.3
+  crticaProfesional: 9.1
